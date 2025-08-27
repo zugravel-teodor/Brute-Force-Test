@@ -1,10 +1,12 @@
-# 💥 Brute Force Test
+![Project Logo](brute.jpg)
+
+# Brute Force Test
 ***A simple programm that simulates brute force attacks to test password strength.***
 
-⭐ **Features:**
-- ***🐧Cross platform***
-- ***🪶Lightweight***
-- ***🧭Easy to modify***
+**Features:**
+- ***Cross platform***
+- ***Lightweight***
+- ***Easy to modify***
 
 
 ### 
